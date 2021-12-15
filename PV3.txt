@@ -1,12 +1,14 @@
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2014.02.06.04)
 RegOpenKey(Software\AHNLAB\APC2\Policy Agent) : 0
 RegQueryValueEx(C:\Program Files (x86)\AhnLab\APC2\Policy Agent) : 0
+error 401: 에러가 발생했습니다.
 hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2014.02.07.00)
 RegOpenKey(Software\AHNLAB\APC2\Policy Agent) : 0
 RegQueryValueEx(C:\Program Files (x86)\AhnLab\APC2\Policy Agent) : 0
 hRst = 2
+error 401: 에러가 발생했습니다.
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2014.03.11.01)
 RegOpenKey(Software\AHNLAB\APC2\Policy Agent) : 0
@@ -20,6 +22,7 @@ hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2014.12.18.02)
 RegOpenKey(Software\AHNLAB\APC2\Policy Agent) : 0
+error 401: 에러가 발생했습니다.
 RegQueryValueEx(C:\Program Files (x86)\AhnLab\APC2\Policy Agent) : 0
 hRst = 2
  (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2
@@ -60,6 +63,7 @@ RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.03.31.00)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.04.28.01)
+error 401: 에러가 발생했습니다.
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.05.19.01)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
@@ -69,11 +73,12 @@ lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.05.23.06)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.05.23.07)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
-lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.05.24.03)
+lpParam : -1, 0, 999, 업데이트가 완료되었습니다. error 401: 에러가 발생했습니다.(2016.05.24.03)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.07.19.01)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2016.09.07.00)
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
 lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2017.02.09.01)
+error 401: 에러가 발생했습니다.
 RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
